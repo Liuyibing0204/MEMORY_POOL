@@ -1,0 +1,3 @@
+/home/liuyibing/memory-pool/v1/build/CMakeFiles/MemoryPoolProject.dir
+/home/liuyibing/memory-pool/v1/build/CMakeFiles/edit_cache.dir
+/home/liuyibing/memory-pool/v1/build/CMakeFiles/rebuild_cache.dir
